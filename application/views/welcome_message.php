@@ -64,12 +64,23 @@
                     <h2 class="mb-5">Experience</h2>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
+                            <h3 class="mb-0">Junior Backend Developer</h3>
+                            <div class="subheading mb-3">PT. Karya Muda Pesona Nusantara</div>
+                            <p>Tripantero is 1-Stop Solution for your travel & tourism services platform</p>
+                            <p>TrippleHub is a One-Stop Digital Travel Platform that will be give yours a better different experiences to trip that matches the personality and criteria that you are looking for and want, used by local and global tripper and mainly focused in Asia Region and give benefits to you to know, planning, and do what you want just using only one platform and TrippleHub it is.</p>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">August 2019 - Present</span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
                             <h3 class="mb-0">Internship as Backend Developer</h3>
-                            <div class="subheading mb-3">PT.Solusindo Pratama</div>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ornare arcu odio ut sem nulla pharetra diam. Et malesuada fames ac turpis egestas integer eget aliquet nibh. Enim praesent elementum facilisis leo vel fringilla est ullamcorper eget. Viverra ipsum nunc aliquet bibendum enim facilisis gravida. Gravida in fermentum et sollicitudin. Mauris pellentesque pulvinar pellentesque habitant. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Sit amet facilisis magna etiam tempor orci eu lobortis. Dignissim convallis aenean et tortor at. Diam maecenas sed enim ut sem viverra. Iaculis at erat pellentesque adipiscing commodo. Quis enim lobortis scelerisque fermentum. Non blandit massa enim nec dui nunc mattis enim.</p>
+                            <div class="subheading mb-3">Mindzzle (PT Sumber Solusindo Pratama)</div>
+                            <p>Mindzzle is a groundbreaking service provider all-in-one HCM tools.</p>
+                            <p>Our Vision is to develop integrated human capital resulting in serving the society positively. We emphasize on adding value to human capital to empower growth in individuals and enterprises.</p>
                         </div>
                         <div class="flex-shrink-0"><span class="text-primary">Febuary 2020 - Mei 2020</span></div>
                     </div>
+                    
                 </div>
             </section>
             <hr class="m-0" />
